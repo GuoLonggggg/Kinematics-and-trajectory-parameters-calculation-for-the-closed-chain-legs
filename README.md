@@ -1,0 +1,5 @@
+-Simply run the main file.
+-The kinematics.m file contains the function that calculates the kinematics of four-bar and six-bar mechanisms.
+-The get_parameters.m file contains the function that calculates the characteristic parameters of the trajectory.
+-The result_3rd_opt.txt file stores the information for all individuals from the final optimization in Section 3.2.3.
+-Computing environment: Matlab 2020b; Intel i7-12700K processor.
